@@ -29,7 +29,7 @@ status-website:
   introMessage: WebStatus Pirani
   navbar:
     - title: Status
-      href: /
+      href: /Pirani-status-upptime/
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
