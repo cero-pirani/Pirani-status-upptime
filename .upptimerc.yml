@@ -22,9 +22,10 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: cero-pirani.github.io
   baseUrl: /Pirani-status-upptime
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://www.piranirisk.com/hs-fs/hubfs/logo/logo_pirani_img.png?width=150&name=logo_pirani_img.png
+  # logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Pirani Status
-  introTitle: "**Pirani Status Web** is the open-source uptime monitor and status page, powered entirely by GitHub."
+  introTitle: "**Pirani Status Web** is the monitor and status page."
   introMessage: WebStatus Pirani
   navbar:
     - title: Status
