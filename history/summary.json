@@ -4,18 +4,20 @@
     "url": "https://cert.pirani.co/services/organizations/actuator/health",
     "icon": "https://favicons.githubusercontent.com/cert.pirani.co",
     "slug": "pirani-freemium-service-organizations-qa",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 107,
-    "timeDay": 90,
-    "timeWeek": 107,
-    "timeMonth": 107,
-    "timeYear": 107,
-    "dailyMinutesDown": {}
+    "time": 132,
+    "timeDay": 222,
+    "timeWeek": 132,
+    "timeMonth": 132,
+    "timeYear": 132,
+    "dailyMinutesDown": {
+      "2022-02-16": 0
+    }
   },
   {
     "name": "Pirani Freemium - Service organizations",
