@@ -5,37 +5,37 @@
     "icon": "https://favicons.githubusercontent.com/cert.pirani.co",
     "slug": "pirani-freemium-service-organizations-qa",
     "status": "up",
-    "uptime": "99.95%",
-    "uptimeDay": "99.09%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.95%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 437,
     "timeDay": 2535,
     "timeWeek": 975,
     "timeMonth": 437,
     "timeYear": 437,
-    "dailyMinutesDown": {
-      "2022-03-02": 13
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Pirani Freemium - Service organizations",
     "url": "https://platform.pirani.co/services/organizations/actuator/health",
     "icon": "https://favicons.githubusercontent.com/platform.pirani.co",
     "slug": "pirani-freemium-service-organizations",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 153,
-    "timeDay": 310,
-    "timeWeek": 214,
-    "timeMonth": 153,
-    "timeYear": 153,
-    "dailyMinutesDown": {}
+    "time": 160,
+    "timeDay": 317,
+    "timeWeek": 227,
+    "timeMonth": 160,
+    "timeYear": 160,
+    "dailyMinutesDown": {
+      "2022-03-02": 0
+    }
   },
   {
     "name": "Pirani Freemium - WEBSITE",
