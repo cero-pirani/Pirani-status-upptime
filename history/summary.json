@@ -40,18 +40,20 @@
     "url": "https://www.piranirisk.com",
     "icon": "https://favicons.githubusercontent.com/www.piranirisk.com",
     "slug": "pirani-freemium-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 819,
-    "timeDay": 2680,
-    "timeWeek": 1008,
-    "timeMonth": 885,
-    "timeYear": 819,
-    "dailyMinutesDown": {}
+    "time": 800,
+    "timeDay": 1411,
+    "timeWeek": 900,
+    "timeMonth": 860,
+    "timeYear": 800,
+    "dailyMinutesDown": {
+      "2022-03-14": 0
+    }
   },
   {
     "name": "Google",
