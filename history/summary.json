@@ -6,15 +6,15 @@
     "slug": "pirani-freemium-service-organizations-qa",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "98.91%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.84%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.97%",
-    "time": 299,
-    "timeDay": 197,
-    "timeWeek": 160,
-    "timeMonth": 377,
-    "timeYear": 299,
+    "time": 294,
+    "timeDay": 45,
+    "timeWeek": 158,
+    "timeMonth": 368,
+    "timeYear": 294,
     "dailyMinutesDown": {
       "2022-03-23": 16
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 155,
-    "timeDay": 173,
-    "timeWeek": 142,
-    "timeMonth": 168,
-    "timeYear": 155,
+    "time": 153,
+    "timeDay": 52,
+    "timeWeek": 140,
+    "timeMonth": 159,
+    "timeYear": 153,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 821,
-    "timeDay": 1173,
-    "timeWeek": 859,
-    "timeMonth": 844,
-    "timeYear": 821,
+    "time": 875,
+    "timeDay": 3372,
+    "timeWeek": 1214,
+    "timeMonth": 916,
+    "timeYear": 875,
     "dailyMinutesDown": {}
   },
   {
@@ -66,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 87,
-    "timeDay": 124,
-    "timeWeek": 94,
-    "timeMonth": 92,
-    "timeYear": 87,
+    "time": 86,
+    "timeDay": 49,
+    "timeWeek": 88,
+    "timeMonth": 90,
+    "timeYear": 86,
     "dailyMinutesDown": {}
   }
 ]
