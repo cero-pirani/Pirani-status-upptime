@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
-    "time": 274,
-    "timeDay": 81,
+    "time": 271,
+    "timeDay": 76,
     "timeWeek": 236,
     "timeMonth": 153,
-    "timeYear": 274,
+    "timeYear": 271,
     "dailyMinutesDown": {
       "2022-03-23": 16
     }
@@ -25,19 +25,17 @@
     "icon": "https://favicons.githubusercontent.com/platform.pirani.co",
     "slug": "pirani-freemium-service-organizations",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.40%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
-    "time": 151,
-    "timeDay": 198,
-    "timeWeek": 183,
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 150,
+    "timeDay": 195,
+    "timeWeek": 182,
     "timeMonth": 139,
-    "timeYear": 151,
-    "dailyMinutesDown": {
-      "2022-04-05": 9
-    }
+    "timeYear": 150,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Pirani Freemium - WEBSITE",
@@ -50,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1087,
-    "timeDay": 359,
-    "timeWeek": 1249,
-    "timeMonth": 1333,
-    "timeYear": 1087,
+    "time": 1076,
+    "timeDay": 405,
+    "timeWeek": 836,
+    "timeMonth": 1320,
+    "timeYear": 1076,
     "dailyMinutesDown": {}
   },
   {
@@ -69,9 +67,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 83,
-    "timeDay": 64,
-    "timeWeek": 77,
-    "timeMonth": 78,
+    "timeDay": 63,
+    "timeWeek": 73,
+    "timeMonth": 77,
     "timeYear": 83,
     "dailyMinutesDown": {}
   }
