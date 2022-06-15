@@ -26,18 +26,19 @@
     "url": "https://platform.pirani.co/services/organizations/actuator/health",
     "icon": "https://favicons.githubusercontent.com/platform.pirani.co",
     "slug": "pirani-freemium-service-organizations",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.97%",
     "time": 181,
-    "timeDay": 545,
-    "timeWeek": 385,
-    "timeMonth": 221,
+    "timeDay": 313,
+    "timeWeek": 347,
+    "timeMonth": 217,
     "timeYear": 181,
     "dailyMinutesDown": {
+      "2022-06-15": 0,
       "2022-05-25": 34,
       "2022-05-04": 19
     }
