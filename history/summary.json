@@ -48,19 +48,19 @@
     "url": "https://www.piranirisk.com",
     "icon": "https://favicons.githubusercontent.com/www.piranirisk.com",
     "slug": "pirani-freemium-website",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "98.47%",
-    "uptimeWeek": "99.78%",
-    "uptimeMonth": "99.95%",
+    "uptimeDay": "98.13%",
+    "uptimeWeek": "99.73%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "99.99%",
-    "time": 1163,
-    "timeDay": 7864,
-    "timeWeek": 3577,
-    "timeMonth": 1715,
-    "timeYear": 1163,
+    "time": 1161,
+    "timeDay": 6456,
+    "timeWeek": 3326,
+    "timeMonth": 1689,
+    "timeYear": 1161,
     "dailyMinutesDown": {
-      "2022-06-21": 22
+      "2022-06-21": 27
     }
   },
   {
