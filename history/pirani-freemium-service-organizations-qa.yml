@@ -1,7 +1,7 @@
 url: https://cert.pirani.co/services/organizations/actuator/health
-status: down
-code: 503
-responseTime: 296
-lastUpdated: 2022-06-22T08:00:29.708Z
+status: up
+code: 200
+responseTime: 336
+lastUpdated: 2022-06-22T08:08:57.336Z
 startTime: Fri Feb 11 2022 21:03:35 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
